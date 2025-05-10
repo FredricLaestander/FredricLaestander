@@ -1,5 +1,5 @@
 ### 👀 Hey there, curious coder
-I write fullstack stuff and obsess over fan curves like it’s an Olympic sport.
+I write fullstack stuff and obsess over fan curves like it’s an Olympic sport... 💨
 
 - 🕶️ I’m a cool fullstack developer student
 - 🌱 I’m currently learning Frontend frameworks! (React and Angular)
