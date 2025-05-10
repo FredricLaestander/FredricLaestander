@@ -1,7 +1,9 @@
-### 👋 Hi there
-- 🔭 I’m currently working on getting better 
+### 👀 Hey there, curious coder
+I write fullstack stuff and obsess over fan curves like it’s an Olympic sport.
+
+- 🕶️ I’m a cool fullstack developer student
 - 🌱 I’m currently learning Frontend frameworks! (React and Angular)
-- 💬 Ask me about computer hardware
+- 💬 Ask me about computer hardware or game-related news
 - ⚡ Fun facts: Likes videogames and holds a pen in the wrong way
 
 ### 💻 Tech Stack:
@@ -31,7 +33,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredricLaestander&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
     &nbsp; &nbsp; &nbsp; &nbsp; 
     <img src="https://nirzak-streak-stats.vercel.app/?user=FredricLaestander&theme=transparent&hide_border=true">
+    <!--
+    ![](https://github-readme-stats.vercel.app/api?username=FredricLaestander&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+    -->
 </details>
-<!--
-![](https://github-readme-stats.vercel.app/api?username=FredricLaestander&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
--->
