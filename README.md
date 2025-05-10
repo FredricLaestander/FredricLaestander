@@ -28,7 +28,7 @@ I write fullstack stuff and obsess over fan curves like it’s an Olympic sport.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <details>
   <summary>
-    📊 GitHub Stats...
+    <h3> 📊 GitHub Stats... </h3>
   </summary>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredricLaestander&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
     &nbsp; &nbsp; &nbsp; &nbsp; 
