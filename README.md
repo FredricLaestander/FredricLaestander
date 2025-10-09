@@ -2,7 +2,6 @@
 I write fullstack stuff and obsess over fan curves like it’s an Olympic sport... 💨
 
 - 🕶️ I’m a cool fullstack developer student
-- 🌱 I’m currently learning Frontend frameworks! (React and Angular)
 - 💬 Ask me about computer hardware or game-related news
 - ⚡ Fun facts: Likes videogames and holds a pen in the wrong way
 
