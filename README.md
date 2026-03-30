@@ -20,7 +20,7 @@ I write fullstack stuff and obsess over fan curves like it’s an Olympic sport.
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -30,9 +30,8 @@ I write fullstack stuff and obsess over fan curves like it’s an Olympic sport.
   <summary>
     <h3> 📊 GitHub Stats... </h3>
   </summary>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredricLaestander&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
-    &nbsp; &nbsp; &nbsp; &nbsp; 
-    <img src="https://nirzak-streak-stats.vercel.app/?user=FredricLaestander&theme=transparent&hide_border=true">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fredriclaestander&langs_count=8&layout=compact&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=fredriclaestander&theme=transparent&hide_border=true&cache_seconds=86400" alt="fredriclaestander's GitHub Streak" width="49%" />
     <!--
     ![](https://github-readme-stats.vercel.app/api?username=FredricLaestander&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
     -->
